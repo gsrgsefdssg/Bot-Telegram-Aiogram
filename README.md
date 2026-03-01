@@ -11,5 +11,5 @@
 - `/youtube` — кнопка с ссылкой на YouTube
 
 # Библиотеки:
-# Если токн в .env то - pip install aiogram python-dotenv
+# Если токен в .env то - pip install aiogram python-dotenv
 # Если токен в коде то - pip install aiogram
