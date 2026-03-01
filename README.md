@@ -14,6 +14,7 @@ RU:
 ## Библиотеки:
 - Если токен в .env то - pip install aiogram python-dotenv
 - Если токен в коде то - pip install aiogram
+
 EN:
 # My first Telegram bot
 
